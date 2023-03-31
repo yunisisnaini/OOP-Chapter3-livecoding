@@ -20,25 +20,25 @@ class ProductList {
             'boneka',
             'https://i.pinimg.com/564x/0d/54/f3/0d54f3fed17ffb87a38163b55039aed1.jpg',
             20000,
-            'ini bonekuyy',
+            'ini boneka lucu banget',
         ),
         {
             title: 'boneka',
             imageURL: 'https://i.pinimg.com/564x/0d/54/f3/0d54f3fed17ffb87a38163b55039aed1.jpg',
             price: 20000,
-            description: 'ini boneka lucu kaya aku hehe'
+            description: 'ini boneka bear berwarna coklat'
         },
         {
             title: 'coklat',
             imageURL: 'https://i.pinimg.com/564x/5a/1e/aa/5a1eaa05c95bcf1a2f1805bdbfeebeff.jpg',
             price: 10000,
-            description: 'coklat loppe'
+            description: 'ini coklat manis bangettt kayak akuuu hehe'
         },
         {
             title: 'kaos',
             imageURL: 'https://i.pinimg.com/564x/9f/f8/64/9ff8643c38bc3a4195e856e472f7f2c7.jpg',
             price: 200000,
-            description: 'kaos agustd'
+            description: 'ini kaos keren bangettt yaaaa'
         }
     ];
     render() {
